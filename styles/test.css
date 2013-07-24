@@ -1,0 +1,22 @@
+#area {
+/*    margin: 20px;
+*/    position: relative;
+    width: 326px;
+    height: 90px;
+}
+
+#white_circle {
+    position: absolute;
+    width: 557px;
+    height: 557px;
+    -moz-border-radius: 100%;
+    -webkit-border-radius: 100%;
+    border-radius: 100%;
+    background: transparent;
+}
+
+#white_circle {
+    border: 30px solid blue;
+    z-index: -3;
+}
+
